@@ -1,6 +1,8 @@
 # open-source-react-native-apps
 Collaborative List of Open-Source React Native apps
 
+Inspired by [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps)
+
 Your contribution is welcome :smile:.
  
 Jump to 
