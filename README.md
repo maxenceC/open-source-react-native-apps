@@ -14,7 +14,7 @@ Jump to
  
 [back to top](#readme) 
  
-- HackerNews-React-Native:
+- HackerNews-React-Native: Hacker News iOS and Android App - Made with React Native
   - https://github.com/iSimar/HackerNews-React-Native
 
 ## Official 
