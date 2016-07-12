@@ -8,7 +8,6 @@ Jump to
   - [Hacker News](#hacker-news) 
 -  
 
-```
 ## News
  
 ### Hacker News 
