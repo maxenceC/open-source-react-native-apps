@@ -1,7 +1,7 @@
 # open-source-react-native-apps
 Collaborative List of Open-Source React Native apps
 
-Your [contribution](https://github.com/maxenceC/open-source-react-native-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:.
+Your contribution is welcome :smile:.
  
 Jump to 
 - [Conference](#conference)
