@@ -29,11 +29,11 @@ Jump to
 
 - newswatch-react-native: A news app using YouTube playlists, built with React Native for iOS
   - https://github.com/bradoyler/newswatch-react-native
- - confreaks-react-native: React Native App using the Confreaks.TV API
+- confreaks-react-native: React Native App using the Confreaks.TV API
    - https://github.com/cabaret/confreaks-react-native 
-  - react-native-dribbble-app: Dribbble app built with React Native
+- react-native-dribbble-app: Dribbble app built with React Native
     - https://github.com/catalinmiron/react-native-dribbble-app
- - lumpen-radio: 📻 React Native iOS app for WLPN 105.5 Chicago http://appsto.re/us/NdeV7.i
+- lumpen-radio: 📻 React Native iOS app for WLPN 105.5 Chicago http://appsto.re/us/NdeV7.i
     - https://github.com/jhabdas/lumpen-radio    
   
   
@@ -43,7 +43,7 @@ Jump to
 
 - react-native-font-list: A demo in react-native to show the Native Fonts in iOS
   - https://github.com/yayolius/react-native-font-list
- - react-native-alt-demo: A demo of React-Native + Flux(Alt) + ES6
+- react-native-alt-demo: A demo of React-Native + Flux(Alt) + ES6
    - https://github.com/mrblueblue/react-native-alt-demo
 
 ## News
