@@ -6,7 +6,7 @@ Your [contribution](https://github.com/maxenceC/open-source-react-native-apps/bl
 Jump to 
 - [News](#news) 
   - [Hacker News](#hacker-news) 
--  
+- [Official] (#official)
 
 ## News
  
@@ -18,5 +18,20 @@ Jump to
   - https://github.com/iSimar/HackerNews-React-Native
 
 ## Official 
+
+[back to top](#readme) 
+ 
+- 2048: Facebook official 2048 example
+  - https://github.com/facebook/react-native/tree/master/Examples/2048
+  
+- Movies : Facebook official movies example
+  - https://github.com/facebook/react-native/tree/master/Examples/Movies
+
+- TicTacToe : Facebook official TicTacToe example
+  - https://github.com/facebook/react-native/tree/master/Examples/TicTacToe
+  
+- UIExplorer : Facebook official UIExplorer example
+  - https://github.com/facebook/react-native/tree/master/Examples/UIExplorer
+  
  
 
