@@ -87,6 +87,8 @@ Jump to
  
 - 2048: Facebook official 2048 example
   - https://github.com/facebook/react-native/tree/master/Examples/2048
+- F8 Event App - Source code of the official F8 app of 2016
+ - https://github.com/fbsamples/f8app
 - Movies : Facebook official movies example
   - https://github.com/facebook/react-native/tree/master/Examples/Movies
 - TicTacToe : Facebook official TicTacToe example
