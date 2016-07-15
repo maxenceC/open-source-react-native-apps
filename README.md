@@ -23,6 +23,8 @@ Jump to
 
 - Assemblies: A developer-focused Meetup clone built with React Native.
   - https://github.com/buildreactnative/assemblies
+- Reindex: Instagram clone. A multi-user gallery app, with file uploads.
+  - https://github.com/reindexio/reindex-examples/tree/master/react-native-gallery
 
 ## Conference
 
