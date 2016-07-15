@@ -16,6 +16,8 @@ Jump to
   - [BBC News](#bbc-news)
 - [Official] (#official)
 - [Productivity] (#productivity)
+- [Sample](#sample)
+  - [Meteor](#meteor)
 
 ## Clone
 
@@ -123,3 +125,15 @@ Jump to
 
 - Gitify Mobile: GitHub Notifications in your pocket
   - https://github.com/ekonstantinidis/gitify-mobile
+
+
+### Sample
+
+## Meteor
+
+[back to top](#readme) 
+
+- react-native-meteor-websocket-polyfill: An example that brings Meteor and React Native together (via WebSocket polyfill)
+  - https://github.com/hharnisc/react-native-meteor-websocket-polyfill
+- meteor-react-native-chat-example: Simple example of live chat through a Meteor server on both iOS and Android with React Native
+  - https://github.com/tgoldenberg/meteor-react-native-chat-example
