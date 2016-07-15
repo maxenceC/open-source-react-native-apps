@@ -54,6 +54,11 @@ Jump to
    - https://github.com/LaborWorks/bilgi-shuttle-android
 
 ## News
+
+[back to top](#readme)
+
+- ZhiHuDaily-React-Native: A Zhihu Daily(http://daily.zhihu.com/) App client implemented using React Native (Android and iOS).
+  - https://github.com/race604/ZhiHuDaily-React-Native
  
 ### Hacker News 
  
