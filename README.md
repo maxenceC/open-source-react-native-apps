@@ -6,6 +6,7 @@ Inspired by [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-
 Your contribution is welcome :smile:.
  
 Jump to 
+- [Clone](#clone) 
 - [Conference](#conference)
 - [Media](#media)
 - [Misc](#misc)
@@ -15,6 +16,13 @@ Jump to
   - [BBC News](#bbc-news)
 - [Official] (#official)
 - [Productivity] (#productivity)
+
+## Clone
+
+[back to top](#readme)
+
+- Assemblies: A developer-focused Meetup clone built with React Native.
+  - https://github.com/buildreactnative/assemblies
 
 ## Conference
 
