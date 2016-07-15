@@ -25,6 +25,8 @@ Jump to
   - https://github.com/buildreactnative/assemblies
 - Reindex: Instagram clone. A multi-user gallery app, with file uploads.
   - https://github.com/reindexio/reindex-examples/tree/master/react-native-gallery
+- ReactNativeSampleApp: sort of like twitter/tumblr
+  - https://github.com/taskrabbit/ReactNativeSampleApp
 
 ## Conference
 
