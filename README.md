@@ -74,9 +74,9 @@ Jump to
 
 [back to top](#readme)
 
-- ZhiHuDaily-React-Native: A Zhihu Daily(http://daily.zhihu.com/) App client implemented using React Native (Android and iOS).
+- ZhiHuDaily-React-Native: A Zhihu Daily(http://daily.zhihu.com/) App client (Android and iOS).
   - https://github.com/race604/ZhiHuDaily-React-Native
-- ziliun-react-native: Ziliun article reader android app built with React Native http://bit.ly/ziliun.
+- ziliun-react-native: Ziliun article reader android app http://bit.ly/ziliun.
   - https://github.com/sonnylazuardi/ziliun-react-native
  
 ### Hacker News 
