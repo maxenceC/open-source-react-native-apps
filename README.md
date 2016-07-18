@@ -23,7 +23,7 @@ Jump to
 
 [back to top](#readme)
 
-- Assemblies: A developer-focused Meetup clone built with React Native.
+- Assemblies: A developer-focused Meetup clone.
   - https://github.com/buildreactnative/assemblies
 - Reindex: Instagram clone. A multi-user gallery app, with file uploads.
   - https://github.com/reindexio/reindex-examples/tree/master/react-native-gallery
@@ -34,9 +34,9 @@ Jump to
 
 [back to top](#readme)
 
-- NortalTechDay: iOS Conference App made with React Native.
+- NortalTechDay: iOS Conference App.
   - https://github.com/mikkoj/NortalTechDay
-- ChromeCast_ReactNative: Chormecast Videos from JavaScript in React Native.
+- ChromeCast_ReactNative: Chormecast Videos.
   - https://github.com/holoed/ChromeCast_ReactNative   
 
 
@@ -45,11 +45,11 @@ Jump to
 
 [back to top](#readme) 
 
-- newswatch-react-native: A news app using YouTube playlists, built with React Native for iOS
+- newswatch-react-native: A news app using YouTube playlists (iOS)
   - https://github.com/bradoyler/newswatch-react-native
 - confreaks-react-native: React Native App using the Confreaks.TV API
    - https://github.com/cabaret/confreaks-react-native 
-- react-native-dribbble-app: Dribbble app built with React Native
+- react-native-dribbble-app: Dribbble app
     - https://github.com/catalinmiron/react-native-dribbble-app
 - lumpen-radio: 📻 React Native iOS app for WLPN 105.5 Chicago http://appsto.re/us/NdeV7.i
     - https://github.com/jhabdas/lumpen-radio    
@@ -59,7 +59,7 @@ Jump to
 
 [back to top](#readme) 
 
-- react-native-font-list: A demo in react-native to show the Native Fonts in iOS
+- react-native-font-list: A demo to show the Native Fonts in iOS
   - https://github.com/yayolius/react-native-font-list
 - react-native-alt-demo: A demo of React-Native + Flux(Alt) + ES6
    - https://github.com/mrblueblue/react-native-alt-demo
@@ -83,9 +83,9 @@ Jump to
  
 [back to top](#readme) 
  
-- HackerNews-React-Native: Hacker News iOS and Android App - Made with React Native
+- HackerNews-React-Native: Hacker News iOS and Android App
   - https://github.com/iSimar/HackerNews-React-Native
-- ReactNativeHackerNews: React Native Hacker News app
+- ReactNativeHackerNews: Hacker News app
   - https://github.com/jsdf/ReactNativeHackerNews 
   
 ### Reddit
@@ -94,14 +94,14 @@ Jump to
 
 - react-native-reddit-reader
   - https://github.com/akveo/react-native-reddit-reader
-- xReddit: 🎃 Reddit app writing in react-native + redux !
+- xReddit: 🎃 Reddit app (react-native + redux) 
   - https://github.com/KevinOfNeu/xReddit
 
 ### BBC News
 
 [back to top](#readme)
 
-- BBCNews-React-Native: An unofficial basic implementation of the BBC News app built using React Native
+- BBCNews-React-Native: An unofficial basic implementation of the BBC News app
   - https://github.com/joeltrew/BBCNews-React-Native
  
 
