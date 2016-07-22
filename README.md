@@ -87,6 +87,8 @@ Jump to
   - https://github.com/iSimar/HackerNews-React-Native
 - ReactNativeHackerNews: Hacker News app
   - https://github.com/jsdf/ReactNativeHackerNews 
+- HackerWeb: A simply readable Hacker News app for iOS & Android
+  - https://github.com/cheeaun/hackerweb-native
   
 ### Reddit
 
