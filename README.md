@@ -89,6 +89,8 @@ Jump to
   - https://github.com/jsdf/ReactNativeHackerNews 
 - HackerWeb: A simply readable Hacker News app for iOS & Android
   - https://github.com/cheeaun/hackerweb-native
+- HAgnostic-News: A simple Hacker News reader which is available for the Web (Android / iOS)
+  - https://github.com/grigio/HAgnostic-News
   
 ### Reddit
 
